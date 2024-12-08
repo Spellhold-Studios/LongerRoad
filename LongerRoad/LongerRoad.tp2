@@ -9,12 +9,14 @@ ALLOW_MISSING ~ar5502.bcs~
 ASK_EVERY_COMPONENT
 
 ALWAYS
+  ACTION_DEFINE_ARRAY fl#noconvert BEGIN INSTALL END
   ACTION_DEFINE_ARRAY fl#reload BEGIN setup END
   LAF HANDLE_CHARSETS
     INT_VAR
       infer_charsets = 1
     STR_VAR
       tra_path = ~LongerRoad/tra~
+	  noconvert_array = fl#noconvert
       reload_array = fl#reload
       default_language = ~English~
   END
@@ -41,6 +43,10 @@ LANGUAGE ~Polski (Tlumaczenie Cuttooth)~
 LANGUAGE ~Russian (Arcanecoast Team)~
          ~russian~
          ~LongerRoad/tra/russian/setup.tra~
+
+LANGUAGE ~Chinese (zjw1982413, good0593)~
+         ~schinese~
+         ~LongerRoad/tra/schinese/INSTALL.tra~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
