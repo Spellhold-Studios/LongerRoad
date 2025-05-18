@@ -23,9 +23,9 @@ Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
 
 # The Longer Road
 
-*A Spellhold Studios mod for Baldur's Gate&nbsp;II*
+by Janetta Bogatchenko
 
-Janetta Bogatchenko
+*A Spellhold Studios mod for Baldur's Gate&nbsp;II*
 
 https://www.onlinefiction.net
 
