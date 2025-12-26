@@ -11,14 +11,22 @@ ASK_EVERY_COMPONENT
 ALWAYS
   ACTION_DEFINE_ARRAY fl#noconvert BEGIN INSTALL END
   ACTION_DEFINE_ARRAY fl#reload BEGIN setup END
+  ACTION_DEFINE_ASSOCIATIVE_ARRAY fl#charset BEGIN
+    english     => cp1252
+    spanish     => cp1252
+    french      => cp1252
+    polish      => cp1250
+    russian     => cp1251
+    schinese    => cp936
+    bportuguese => cp1252
+  END
   LAF HANDLE_CHARSETS
-    INT_VAR
-      infer_charsets = 1
     STR_VAR
-      tra_path = ~LongerRoad/tra~
-	  noconvert_array = fl#noconvert
-      reload_array = fl#reload
-      default_language = ~English~
+      tra_path         = ~LongerRoad/tra~
+      noconvert_array  = ~fl#noconvert~
+      reload_array     = ~fl#reload~
+      charset_table    = ~fl#charset~
+      default_language = ~english~
   END
 END
 
@@ -47,6 +55,10 @@ LANGUAGE ~Russian (Arcanecoast Team)~
 LANGUAGE ~Chinese (zjw1982413, good0593)~
          ~schinese~
          ~LongerRoad/tra/schinese/INSTALL.tra~
+
+LANGUAGE ~Portugues (Brasil) (Traducao de Darth)~
+         ~bportuguese~
+         ~LongerRoad/tra/bportuguese/setup.tra~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////

@@ -1,0 +1,116 @@
+@0    = ~Lamentavelmente, você é mais tolo do que pensei que seria, <CHARNAME> . Mas minha gratidão dura mais que sua tolerância. Até a próxima.~
+@1    = ~<CHARNAME>! Senti uma vontade repentina de falar com você mais uma vez. É improvável que nos encontremos novamente neste Plano.~
+@2    = ~Perdoe-me, não tive a intenção de menosprezar sua habilidade excepcional em escapar de uma morte certa, e todos estamos em dívida com você e seus companheiros por seus feitos heróicos em nome de Suldanesselar.~
+@3    = ~Mas o seu destino é sombrio e perigoso. Seu pai divino é tão diferente do meu... Hoje, quando você estava pronto para partir, percebi de repente que nunca me perdoaria se deixasse você ir embora sem fazer esta última pergunta.~
+@4    = ~É sempre um prazer ouvir sua doce voz, rainha Ellesime. Como posso ajudar, minha senhora?~
+@5    = ~Já passamos muito tempo discutindo o caso, Ellesime, e nunca fiquei feliz com o seu papel nele, com desculpas ou não. Não há mais nada a ser dito.~
+@6    = ~Suponho que não me fará mal ouvir isso mais uma vez, "majestade". (encolher os ombros) O que é agora?~
+@7    = ~Você é uma puta sem coração, Ellesime, e não tenho nada para discutir com alguém como você. Vá beijar um sapo e talvez ele se transforme em um consorte adequado, embora nenhum mísero anfíbio mereça tal destino.~
+@8    = ~Certamente, Ellesime. Deve ser algo da “maior importância” se você escolheu me seguir desde Suldanesselar.~
+@9    = ~Desembucha de uma vez, e acabe logo com isso, sua maldita grudenta amante da natureza. Meus pés estão coçando para ir logo embora pra longe deste lugar amaldiçoado. Estas estátuas parecem mais mortos-vivos do que grandes reis da raça élfica. Não é de admirar que Irenicus estivesse tão ansioso para acabar com este lugar!~
+@10   = ~Rainha Ellesime, sua hospitalidade e seus presentes foram retribuição suficiente pelos crimes de Irenicus contra mim e meus amigos. Como posso servi-la novamente?~
+@11   = ~Você prestou um grande serviço aos elfos da minha cidade, e eu o recompensei de acordo com minhas capacidades limitadas, <CHARNAME>. No entanto, você nunca demonstrou qualquer respeito pelas nossas tradições e costumes.~
+@12   = ~temo que nunca chegaremos a um acordo. Cometi um erro ao te seguir. Por favor, aceite minhas desculpas novamente e adeus.~
+@13   = ~Tenho que admitir que você despertou minha curiosidade, "irmã". O que faria a orgulhosa rainha dos elfos, também filha do "Grande Carvalho", correr atrás de um mero descendente do Deus Humano do Assassinato, quando ela poderia facilmente ter enviado alguém para buscar ele de volta? Agora que você chegou tão longe, por que não dar o último pequeno passo e fazer sua pergunta~
+@14   = ~Não tenho paciência para suas travessuras, Ellesime. agora adeus.~
+@15   = ~Um encontro estranho 
+
+Eu pensei que estava sozinho na floresta, observado apenas pelos antigos ídolos de pedra – as sentinelas de Suldanesselar. No entanto, eu estava errado. Ellesime me seguiu desde a cidade. Foi uma conversa estranha, muito muito breve para que eu pudesse compreender seus sentimentos, passado ou presente, mas o fato de que aconteceu é notável por si só...~
+@16   = ~Minha gratidão dura mais que sua tolerância, <CHARNAME>. E mesmo que você não tenha boas maneiras, seus modos simples são "encantadores".~
+@17   = ~Peço desculpas pela minha franqueza, majestade. Meu temperamento às vezes me ultrapassa, e sua maneira imprudente de julgar Irenicus e de causar toda a catástrofe com a perda da minha alma me deu muitos motivos para ser cínico. Qual foi a sua pergunta mesmo?~
+@18   = ~Você está me chamando de estúpido por acaso? A única coisa que me impede de fazer você engolir essas palavras com sua maldita saliva é a falta de tempo, não meus "bons modos". Adeus, sua pequena rainha rancorosa da cidade morta.~
+@19   = ~Mesmo? E eu achei que estava agindo como um completo idiota. Quem poderia esperar que você acha-se isso atraente.~
+@20   = ~Se você ainda quiser fazer sua pergunta, esta é sua última chance, Ellesime.~
+@21   = ~Eu sabia que você era nosso verdadeiro parente, <CHARNAME>! E estou feliz por não ter me enganado com você, embora Elhan tenha me alertado muitas vezes para não confiar em você, meu querido <PRO_RACE>.~
+@22   = ~Eu sabia que você era um verdadeiro amigo dos elfos em seu coração, <CHARNAME>! E estou feliz por não ter me enganado com você, embora Elhan tenha me alertado muitas vezes para não confiar em você, meu querido <PRO_RACE>.~
+@23   = ~Mas temo estar me aproveitando de sua gentileza. Afinal, minha pergunta não parece ser tão importante.~
+@24   = ~Não se sente importante? Mas, Ellesime, você me seguiu secretamente desde os portões da cidade até Elder Grove. Certamente você terá coragem suficiente para perguntar isso agora, minha rainha? Ficaria feliz em ajudar!~
+@25   = ~Eu não deveria me intrometer em seus segredos, Ellesime. No entanto, a curiosidade da mulher é uma criatura maravilhosa, divertidamente semelhante à de um gato. Sendo imortal, você terá uma eternidade para se arrepender desta oportunidade perdida.~
+@26   = ~Suponho que você saiba melhor se é importante ou não, majestade. Desejo-lhe sucesso na reconstrução da sua bela cidade mais uma vez. Adeus e boa sorte.~
+@27   = ~Não não. Foi um vôo de fantasia e um jogo frívolo de mente ociosa, <CHARNAME>. Passe bem.~
+@28   = ~Passe bem.~
+@29   = ~Um encontro estranho
+
+Eu pensei que estava sozinho na floresta, observado apenas pelos antigos ídolos de pedra – as sentinelas de Suldanesselar. No entanto, eu estava errado. Ellesime me seguiu desde a cidade. Foi uma conversa estranha, fugaz demais para que eu pudesse compreender os sentimentos dela, passados ou presentes, mas o fato de ter acontecido é notável por si só...~
+@30   = ~Estranhamente, a sua insolência me dá coragem, <CHARNAME>. Eu simplesmente preciso saber. Você matou Joneleth... Jon com suas próprias mãos, não foi?~
+@31   = ~Não uma, mas duas vezes, como aprendi mais tarde. Aqui, nas florestas de Suldanesselar, você derrotou sua concha mortal; e então você teve que lutar com ele novamente enquanto seguia sua alma em fuga até o próprio Abismo atrás dele.~
+@32   = ~Sim, eu matei seu amante traiçoeiro duas vezes, Ellesime. Dificilmente é algo que você não sabia antes. Derrotei Irenicus em seu miserável avatar material e, mais tarde, em seu aspecto espiritual. E farei isso de novo, se tiver uma chance!~
+@33   = ~Sim, minha rainha. Esse foi realmente o caso. Há mais alguma coisa que você gostaria de saber?~
+@34   = ~Exatamente. Já discutimos isso muitas vezes antes, rainha Ellesime. O que e agora?~
+@35   = ~Como foi? Quero dizer... Vi a sua primeira batalha enquanto ela rugia pela copa da Árvore da Vida, acrescentando-se à devastação que Joneleth já havia infligido a ela.~
+@36   = ~Você sabe, no meu coração eu não poderia torcer pela sua vitória honestamente, <CHARNAME>, mesmo sabendo que sua derrota significaria a morte de Suldanesselar. Eu não tinha tanta certeza do meu próprio destino... mas esse é um assunto que não desejo discutir com você.~
+@37   = ~Durante toda a sua estadia na cidade, nunca ousei perguntar sobre aquela última batalha no Inferno, filho de Bhaal. Por favor, conte-me sobre seus últimos momentos. Jon se sentiu diferente de você à beira da derrota e da condenação eterna?~
+@38   = ~Ele... tentou se arrepender e pedir perdão?~
+@39   = ~Estamos falando do mesmo homem aqui, Ellesime? Você já deveria conhecê-lo melhor. Arrependimento? É de Irenicus que estamos falando! Irenicus e seu orgulho sangrento. voçe acha que Ele algum dia viraria as costas e correria ao ver o perigo?~
+@40   = ~Você deveria conhecer seu ex-namorado melhor do que isso, Ellesime. Ele alguma vez lhe pareceu o tipo que se afastaria de um desafio e pediria clemência à beira da morte e da condenação?~
+@41   = ~Não creio que ele pudesse sentir vontade de redenção, Ellesime. Jon não tinha alma e, portanto, nenhum anseio pela moralidade. Você acha que uma pessoa sem nenhum conceito de bem e mal sentiria remorso de repente?~
+@42   = ~Não, suponho que ele não faria.~
+@43   = ~Ele permaneceu desafiador até o fim, Ellesime. Os últimos momentos de sua maldita existência foram muito terríveis. Ele tentou me ferir com todos os recursos, mesmo ao morrer pela última vez. Seus servos abissais me deram uma luta infernal. Mas isso não o ajudou no fim. Prevaleci, como sempre faço.~
+@44   = ~Ainda me lembro de sua expressão depois de eu ter arrancado minha alma dele e seus asseclas demoníacos de repente se virarem contra ele... Foi uma visão horrível. Quando o vi cair no mar fervente de lava, quase senti pena dele por uma fração de segundo.~
+@45   = ~Sim, eu o bani para o abismo mais profundo do Abismo, onde ficará pela eternidade pagando pelos seus pecados. Uma pena, realmente. Ele foi um excelente instrumento de terror e destruição. Eu gostaria que pudéssemos ter feito uma espécie de acordo.~
+@46   = ~Você triunfou no final, <CHARNAME>, E isso é tudo que importa. Mas estou feliz por ter perguntado. A última centelha de dúvida que eu tinha sobre a validade da punição de Jon desapareceu. Foi minha decisão como Governante desta Cidade, e não sua amante injustiçada, pedir aos Seldarine sua separação do Espírito Élfico.~
+@47   = ~Estou convencida agora, como estava então, de que fiz a escolha certa. Eu te agradeço muito, meu bom <PRO_RACE>, e desejo-lhe boa sorte em suas viagens.~
+@48   = ~Um encontro estranho
+
+Eu pensei que estava sozinho na floresta, observado apenas pelos antigos ídolos de pedra – as sentinelas de Suldanesselar. No entanto, eu estava errado. Ellesime me seguiu desde a cidade, apenas para me perguntar mais uma vez sobre seu falecido amante e meu pior inimigo... Irenicus! Eu gostaria de nunca ter aprendido esse nome amaldiçoado, mas o mago está me assombrando mesmo depois de seu mergulho final no Abismo.
+
+Foi uma conversa estranha, fugaz demais para que eu pudesse entender os sentimentos dela por ele, passados ou presentes, mas o fato de ter acontecido é notável por si só...~
+@49   = ~Você viu Jon cair mais fundo no Abismo, <CHARNAME>? Mas pensei que ele abraçaria a "verdadeira morte" depois daquela última derrota no Inferno, e finalmente conheceria a paz...~
+@50   = ~Eu nunca entenderei você e seus caminhos, <CHARNAME>. Você fala tão levianamente sobre se alinhar com Jon, do jeito que ele estava no final, e ainda assim, você salvou Suldanesselar em seu momento de necessidade. Irenicus era uma encarnação do mal, mas uma vez, há muito tempo, eu o conheci como um homem diferente. Você mencionou que viu Jon cair mais fundo no Abismo?~
+@51   = ~Então, ele ainda existe de alguma forma pervertida. Eu deveria saber que ele seria *tão* persistente! Não sobrou quase nada dele. Sua alma virtualmente decaiu até o nada ao longo do século ou mais de sua punição, e seu corpo está agora enterrado em meus jardins particulares.~
+@52   = ~Sua alma "virtualmente decaiu"? Eu não entendo você, Ellesime.~
+@53   = ~É quase impossível imaginar uma coisa dessas...~
+@54   = ~Mas você é um de nós. Você deve ser capaz de entender.~
+@55   = ~ E é difícil explicar o conceito para um N"Tel"Quess. Mas vou tentar.~
+@56   = ~O Espírito Élfico é de natureza comunitária, <CHARNAME>. Quando separada dele, a infeliz elfa não apenas perde sua imortalidade e o vínculo com a consciência coletiva do Povo, mas sua própria alma murcha e decai com o tempo, deixando-a como uma concha vazia de seu antigo eu, desprovida de todos os sentimentos e emoções.~
+@57   = ~E você trouxe isso para o seu amante por causa do sentimento de "consideração espiritualmente elevada"?~
+@58   = ~De fato, um belo castigo, digno de sua ofensa e de sua ira real.~
+@59   = ~Eu não poderia me importar menos com o que você fez com ele, mas isso o fez roubar minha própria alma como substituição.~
+@60   = ~Você não entende, <CHARNAME>, eu nunca quis que isso acontecesse! Joneleth deveria aprender a lição de humildade e, como rainha, tive de fazer esse sacrifício em prol da paz e da estabilidade. Meu trono e a segurança do Suldanesselar foram ameaçados.~
+@61   = ~Além disso, era a única maneira de mantê-lo vivo. As pessoas... depois que Jon quase incendiou a Árvore em sua primeira tentativa de drenar seus poderes - elas o teriam despedaçado, se eu não tivesse inventado essa história. "Seu rosto e mãos foram quase destruídos pelo fogo, e ainda assim ele sobreviveu..." se é que se pode chamar isso de vida.~
+@62   = ~Ele deveria voltar para mim, implorando por cura e perdão! Eu teria dado ambos de bom grado, se ele tivesse pedido.~
+@63   = ~Sim, sim, tanto faz.~
+@64   = ~Foi tão importante para você que ele implorou por isso? Talvez tenha sido uma retribuição pelo seu orgulho ferido e pela traição dele?~
+@65   = ~Você obviamente julgou mal o caráter dele, Ellesime. Eu não esperaria que um homem como Jon pedisse perdão por nada.~
+@66   = ~Como você pode dizer uma coisa dessas, <CHARNAME>! Eu... eu o amava, e ele escolheu seu desejo de poder ao invés do amor de sua rainha...~
+@67   = ~Sobre o desejo dele por você, você quis dizer? Ele não é nenhum santo, Ellesime, mas sua própria posição ainda parece terrivelmente egoísta para mim.~
+@68   = ~"O falso, cuja perfídia só era igualada por sua arrogância", como um bardo disse certa vez. Posso ver as raízes de sua raiva, Ellesime, mas não me peça para comiserar.~
+@69   = ~"Sinto muito, minha rainha" - é uma frase tão simples, mas nunca a ouvi da boca de Jon. Nunca! Preferiu usar aquela máscara horrível, esconder o rosto, desfigurado pelo fogo, e devastado pelo rápido envelhecimento, por trás dela, em vez de pedir perdão.~
+@70   = ~Realmente foi devastador descobrir que ele me odiava tanto. Ainda assim, eu não consegui coloca-lo na tumba usando a máscara, então eu ainda a carrego comigo para onde quer que eu vá. <CHARNAME>, essa é a minha parte do castigo.~
+@71   = ~Sua máscara? Posso dar uma olhada nisso? Uma curiosidade fascinante, de fato, e um objeto de raro poder, que eu desejaria fortemente possuir.~
+@72   = ~Talvez fosse uma boa ideia você jogar fora, Ellesime. Ou melhor, simplesmente destrua-o. Não é o tipo de bugiganga sentimental que alguém gosta de ter perto de si. Jon está perdido para você, enfrente isso como uma rainha e acabe com isso.~
+@73   = ~Não sou tão sentimental assim, Ellesime, posso tirar isso de você se desejar.~
+@74   = ~Acho que entendo seus sentimentos, Ellesime. Mesmo assim, como ele mesmo disse, o amor dele por você é uma coisa morta há tantos anos... Talvez seja um bom momento para deixá-lo ir. A máscara é apenas um símbolo do seu sofrimento e do dele, nada mais. Apenas queime.~
+@75   = ~Estou sem palavras, Ellesime. Nunca imaginei que uma armadilha tão mortal e inevitável pudesse ser construída a partir de paixão e orgulho ardentes. Eu gostaria de poder ajudar, embora não veja como.~
+@76   = ~Agradeço seu conselho, <CHARNAME>, mas significa muito mais para mim do que um pedaço de couro sujo. Abraçou seu rosto arruinado por quase um século, enquanto ele ainda andava em Toril, mas estava perdido para mim. Desejo-lhe boa sorte em suas viagens, meu bom <PRO_RACE>~
+@77   = ~Isso é tudo que você pode pensar, <CHARNAME>? Que é um objeto de poder e uma estranheza mágica?~
+@78   = ~Sim, me interessa principalmente como lembrança.~
+@79   = ~Bem, suponho que também tenha algum valor sentimental.~
+@80   = ~Estou apenas tentando ser honesto com você, Ellesime. É pegar ou largar.~
+@81   = ~Você aceitaria isso de mim, <CHARNAME>? Você é, talvez, a única pessoa neste mundo que pode compreender. E você compartilhou uma alma com Jon, ainda que brevemente. É quase como devolver a ele.~
+@82   = ~Quero me livrar de sua presença persistente, mas nunca estarei livre enquanto carregar essa coisa comigo. E eu nunca poderia jogá-la fora ou queimá-la - parece muito com o rosto real dele.~
+@83   = ~Sim, aceitarei com prazer, Ellesime. Será apenas mais um dos muitos troféus estranhos que carrego na mochila. Isso não me sobrecarregaria em nada.~
+@84   = ~Eu preferiria não. Há um limite até para minha tolerância. É simplesmente muito nojento.~
+@85   = ~Eu vou pegar, só para queimar na primeira oportunidade~
+@86   = ~Claro, se isso fizer você se sentir melhor... Mas não é a máscara que está prendendo você a ele, Ellesime, é o seu coração.~
+@87   = ~Eu vou aceitar isso de você ansiosamente. Tenho uma estranha fascinação por coisas assim - você deveria ver todos os outros artefatos na minha coleção!~
+@88   = ~Eu realmente não me importo com seus sentimentos, Ellesime. Apenas me dê isso e termine logo.~
+@89   = ~Então, suponho, que eu esteja condenada a carregá-lo comigo por toda a eternidade, <CHARNAME>. É justo que seu rosto me observe flutuar para sempre entre as conchas vazias de todos os meus sonhos desfeitos. Fique bem e adeus.~
+@90   = ~Um encontro estranho
+
+Eu pensei que estava sozinho na floresta, observado apenas pelos antigos ídolos de pedra – as sentinelas de Suldanesselar. No entanto, eu estava errado. Ellesime me seguiu desde a cidade, apenas para me perguntar mais uma vez sobre seu falecido amante e meu pior inimigo... Irenicus! Eu gostaria de nunca ter aprendido esse nome amaldiçoado, mas o mago está me assombrando mesmo depois de seu mergulho final no Abismo.
+
+Foi uma conversa estranha, fugaz demais para que eu pudesse entender os sentimentos dela por ele, passados ou presentes, mas o fato de ter acontecido é notável por si só... Antes de partir, a orgulhosa rainha de Suldanesselar me implorou aceitar a velha máscara de Irenicus que foi retirada do seu rosto morto - como um símbolo de lembrança, disse ela, e também como uma forma de livrá-la das memórias dele e dos seus crimes. Recusei, mas agora não tenho certeza se foi uma atitude sábia.~
+@91   = ~Obrigado, <CHARNAME>. Já me sinto melhor. Sinto muito por transferir parte do meu fardo para seus ombros, meu querido <PRO_RACE>.~
+@92   = ~Mas você é tão forte <PRO_MANWOMAN>, e tenho a sensação de que Jon gostaria que você tivesse a máscara dele como lembrança, pelo menos para lembrá-lo de sua própria mortalidade. Que os Seldarine proteja você em seu caminho.~
+@93   = ~Agora, você precisa se mover-se rapidamente. Dirija-se aos oráculos imediatamente! Tenho um estranho pressentimento de que Elder Grove não é mais seguro.~
+@94   = ~Um encontro estranho
+
+Eu pensei que estava sozinho na floresta, observado apenas pelos antigos ídolos de pedra – as sentinelas de Suldanesselar. No entanto, eu estava errado. Ellesime me seguiu desde a cidade, apenas para me perguntar mais uma vez sobre seu falecido amante e meu pior inimigo... Irenicus! Eu gostaria de nunca ter aprendido esse nome amaldiçoado, mas o mago está me assombrando mesmo depois de seu mergulho final no Abismo.
+
+Foi uma conversa estranha, fugaz demais para que eu pudesse entender os sentimentos dela por ele, passados ou presentes, mas o fato de ter acontecido é notável por si só... Antes de partir, a orgulhosa rainha de Suldanesselar me implorou que eu aceitasse a antiga máscara de Irenicus que foi retirada do seu rosto morto - como um símbolo de lembrança, disse ela, e também como uma forma de livrá-la das memórias dele e dos seus crimes. Aceitei, mas agora não estou certo se foi uma decisão sábia. Vou guardá-lo na mochila, entre outras esquisitices. Talvez um dia eu o desenterre e dê boas risadas de todos os problemas que aquele homem me causou.
+
+Eu deveria me apressar. Antes de partir, Ellesime me alertou sobre os perigos que rondam nessas florestas outrora pacíficas. Eu deveria me dirigir aos oráculos sem demora.~
+
+@191=~Jovem sacerdotisa, Sandrah é o seu nome, sim, querida, eu sei. Você é um curador e fará o que <CHARNAME> não vou fazer.~
+@192=~Sinto-me melhor já. Peço desculpas por transferir parte do meu fardo para os seus ombros, meu querido, mas você é forte e tenho a sensação de que Jon gostaria que você tivesse sua máscara como uma lembrança, se apenas para te lembrar de sua própria mortalidade. Que os Seldarines te guiem em seu caminho.~

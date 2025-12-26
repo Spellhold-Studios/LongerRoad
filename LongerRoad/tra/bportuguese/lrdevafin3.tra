@@ -1,0 +1,26 @@
+@0    = ~Aquela foi uma escolha difícil, <CHARNAME>... mas foi você quem fez. Adeus.~ [nymph118]
+@1    = ~Adeus, afilhado. Receio que não possa parabenizá-lo pelo caminho escolhido.~ [nymph210]
+@2    = ~Ah, você fez seu caminho mais longo... em alguns ciclos de vida, nada menos. Lembre-se que até mesmo um novo deus do assassinato pode morrer e retornar à Grande Roda. Ainda assim, acredito que você eventualmente voltará ao seu verdadeiro eu. Adeus para você. Adeus para você também, Irenicus.~ [nymph319]
+@3    = ~(chora) O que você fez, mortal! Você matou o potencial de bondade que havia no Bebilith... Sou grato pela sua ajuda, mas meu coração estará para sempre envolto em tristeza. Eu nunca me perdoarei por ser a razão por trás desse sacrifício...~ [deva3]
+@4    = ~Essa foi uma escolha racional <CHARNAME>... mas foi você quem a fez. Ainda assim, por favor, aceite este presente de despedida e vá em paz.~ [nymph120]
+@5    = ~Ah, você fez seu caminho mais longo... por um ciclo talvez. Lembre-se de que até mesmo uma deidade do Assassinato pode morrer e retornar à Grande Roda. Ainda assim, acredito que eventualmente você voltará ao seu verdadeiro ser. Adeus para você. Adeus para você também, Irenicus.~ [nymph319]
+@6    = ~(grita) Ah, o que você fez, mortal! Você o matou, matou-o, matou o Deva, fez! E agora Abaia nem mesmo pode seguir Ybdiel! Ele tem que cuidar da Centelha.~
+@7    = ~Shhh, pobre alma perdida, nós cuidaremos de você e de sua dor. Ah, Afilhado, por favor, aceite esta arma descartada como um presente de despedida.~
+@8    = ~Aquela foi uma escolha ruim, <CHARNAME>... mas foi você quem a fez. Adeus.~ [nymph122]
+@9    = ~Ah, você tornou o seu caminho mais longo... talvez por um ciclo completo. Ainda assim, acredito que você eventualmente retornará ao seu verdadeiro eu. Adeus a você. Adeus a você também, Irenicus.~ [nymph319]
+@10   = ~Obrigado, <CHARNAME>. Você nos salvou e nos deu uma nova vida nesta mente incrível. Nunca esqueceremos sua bondade, Sábio. Somente no perdão e na união há harmonia e vida. A divisão dá origem apenas a mais sofrimento. Por favor, aceite este modesto presente de despedida.~ [deva8]
+@11   = ~Essa foi uma escolha condizente com alguém de sangue divino, <CHARNAME>, e era sua para fazer. Adeus e boa sorte.~ [nymph123]
+@12   = ~Adeus, afilhado. Eu me alegro com sua sabedoria e o parabenizo pelo caminho escolhido.~ [nymph28]
+@13   = ~<CHARNAME>, você se saiu excelente em sua tarefa e agradeço do fundo do meu coração pela sua bondade, que só é rivalizada por sua perspicácia.~ [nymph323]
+@14   = ~Posso ver que você carrega o dom dos Seldarine. É realmente um dia brilhante quando alguém tão abençoado visita o Reino da Mãe Natureza. Deixe-me acrescentar a bênção da Mãe-Terra à dos Deuses Elfos, e que o seu caminho sempre brilhe com a verdade e a cálida luz do sol.~
+@15   = ~Despeço-me de ti, <CHARNAME>. Despeço-me de você também, O Destruído, e que *seu* caminho seja encurtado por esta breve visita também. ~
+@16   = ~Fico satisfeito que, no final, você tenha cedido à razão, afilhado. Seu novo troféu certamente vale o preço de duas vidas inúteis. Ainda assim, gostaria que não tivéssemos tido que ir até lá - a mera lembrança deste lugar irá me irritar!~
+@17   = ~Fim da missão do Deva
+Depois que a louca Bebilith Abaia me teletransportou para Elísio, fomos recebidos por um trio de ninfas locais. Elas me fizeram algumas perguntas estranhas e depois declararam que eu havia passado em seus testes. Segui o conselho de Irenicus e mantive o "Centelha"... apenas o tempo dirá se essa foi a escolha mais racional.~
+@18   = ~Qual foi o sentido de sucumbir a um ataque patético de sentimentos e perder a Centelha? Bah! Pelo menos, seu novo troféu vale o preço de uma vida inútil. Ainda assim, gostaria de não ter que viajar para cá - a simples lembrança deste lugar vai me afligir!~
+@19   = ~Fim da missão do Deva
+Depois que o louco Bebilith Abaia me teleportou para a Elísio, fomos recebidos por um trio de ninfas locais. Elas me fizeram algumas perguntas estranhas e depois declararam que eu havia passado em seus testes. Tentei resolver o enigma da melhor forma possível - minha única esperança agora é que 'a minha melhor' tenha sido suficiente.
+~
+@20   = ~<CHARNAME>, Qual foi o ponto em sucumbir a um acessode sentimentos patéticos e perder a faísca? Acho que você fez isso apenas para me humilhar ainda mais, desafiando o meu conselho! Não vejo outra explicação para esse ato insensato. Agora pare de me encarar com esse sorriso bobo no rosto e me deixe com os meus pensamentos - a mera lembrança deste lugar vai irritar meus nervos!~
+@21   = ~Fim da missão do Deva
+Depois que o enlouquecido Bebilith Abaia me teleportou para Elísio, fomos recebidos por um trio de ninfas locais. Elas me fizeram algumas perguntas estranhas e depois declararam que eu havia passado em seus testes. Tentei resolver o enigma da melhor maneira possível. A nova criatura que criei foi uma visão encantadora, embora um pouco engraçada. Irenicus teve mais um acesso de verborragia cáustica, debochando dos meus 'patéticos' sentimentos. Algo me diz, no entanto, que fiz a escolha certa - ele não tem sido o mesmo desde então.~

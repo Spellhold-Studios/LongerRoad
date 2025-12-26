@@ -1,0 +1,83 @@
+@0    = ~Não me tome por um simplório, <CHARNAME>. Tenho os meios para fazer valer nosso acordo. E você vai se arrepender se tentar me enganar quanto ao meu prêmio.~
+@1    = ~Chega de tagarelice, criança. <CHARNAME>, você realmente deveria ficar de olho nela. Sua 'pequena Imoen' sempre me pareceu do tipo facilmente excitável.~
+@2    = ~<CHARNAME>, Seu verme tagarela arrisca a vida e o membro me irritando. Continue mandando o buscar, e você acabará tendo um duende empalhado como criado.~ [IRENIC92]
+@3    = ~Criatura patética! Um mago que tem seu livro de magias roubado merece nada além de desprezo.~
+@4    = ~Atualmente, o justo e orgulhoso 'Povo' nem sequer consegue cuidar de si mesmo? Eu sabia que a raça tem se degradado constantemente ao longo dos séculos, mas este é o mais vil estado em que já os vi afundar.~
+@5    = ~Se eu estivesse em seu lugar, <CHARNAME>, certamente optaria por acabar com o sofrimento deles de uma vez por todas. Há um limite abaixo do qual não se deve permitir que alguém caia.~
+@6    = ~Esta miséria patética não tem limites. Agora estou verdadeiramente enojado por ter chamado-os de minha família.~
+@7    = ~E você merece isso, pois se tornaram patéticos fracos do tipo mais desprezível! Ninguém deveria confiar em ninguém, exceto em si mesmo.~
+@8    = ~Não ouse macular os assuntos dos seus superiores com sua língua imunda, tolo miserável! Os elfos e seus modos, e o poder da Árvore da Vida não são algo que você possa sequer tentar compreender.~
+@9    = ~Oh, a inigualável destreza anã - como alguém poderia esquecer? <CHARNAME>, às vezes fico surpreso com sua paciência. Certamente você pode colocar este amontoado de ferro enferrujado e cabelo em seu devido lugar.~
+@10   = ~Não que eu tenha percebido. Não, <CHARNAME>, você estava tão eloquente como sempre.~
+@11   = ~Eu diria que foi o 'conjunto' dos Reinos, não apenas metade. Mas continue, humano, eu aprecio assistir sua maçã de Adão fazendo esse balanço divertido.~ [IRENIC92]
+@12   = ~Chega! Não vou mais ouvir as palavras incoerentes de bardos ineptos e meninos mal-educados, mal saídos das fraldas. Bardo, você pode ter aprendido o básico do seu ofício, mas para deixar sua marca na história dos Reinos, é preciso mais do que falta total de vergonha e o desejo incansável de ser famoso. Na verdade, é necessário trabalho árduo e *talento*, o que, apesar de todo o seu entusiasmo professo, você claramente carece.~ [DPJON136]
+@13   = ~<CHARNAME>, Independentemente do status de nossa associação presente, sinto-me inclinado a lhe oferecer um aviso. É do meu interesse, afinal de contas, manter você vivo... neste momento. Suspeito que a bondosa senhora Melissan tenha sua própria agenda e ela pode ser diferente de ser uma salvadora altruísta de seus irmãos beligerantes.~ [DPJON159]
+@14   = ~Você desconfia de Melissan, mas por quê? A senhora só nos mostrou gentileza. Deixe disso, Irenicus. É tudo coisa da sua mente distorcida.~
+@15   = ~Prefiro arriscar meu pescoço seguindo as direções estranhas dela do que ouvir as suas mentiras!~
+@16   = ~Eu vi seus olhos piscarem sob a máscara enquanto ela estava falando e fiquei curioso sobre o que você poderia dizer. Concordo que ela não é confiável. Mas o fato é, Irenicus, que confio menos em você.~
+@17   = ~Por que, obrigado por ser franco de vez em quando, Irenicus. Na verdade, não confio em Melissan também. Infelizmente, não temos muita escolha a não ser seguir o conselho questionável dela e esperar que isso resulte em algo melhor.~
+@18   = ~<CHARNAME>, Você mostra insolência e estupidez em igual medida, como eu esperava de um tolo tão auto-absorvido como você. Fique à vontade, não vou mais incomodá-lo com ofertas de conselhos, seja qual for o preço.~
+@19   = ~Filho de Bhaal, você deve ter comido algo estragando hoje, pois não consigo encontrar nenhuma justificativa racional para o seu repentino surto de bom senso. Confiar em mim não lhe traria nada além do meu desprezo, mas confiar em Melissan pode acabar sendo sua última decisão tola neste Plano.~
+@20   = ~Eu ouvi falar do gigante de fogo, criado por uma bruxa Bhaalita, mas o descartei como um doador de almas. Dizem que Yaga-Shura está envolvido em bruxaria primeva, o que não é surpreendente, dadas as suas origens - vindo de sangue elemental e criado por uma velha. O uso primitivo do Tear me enoja até o âmago, mas ele é um inimigo perigoso de se fazer. Você tem certeza de que quer cruzar o caminho dele?~
+@21   = ~Quais outras opções eu tenho?~
+@22   = ~Eu terei que lidar com ele mais cedo ou mais tarde.~
+@23   = ~Uma decisão admirável de sua parte. Mas suponho que caçar um gigante de fogo na natureza pode se provar um esporte melhor do que desviar de bolas de fogo nesta armadilha dessa cidade.~ [IRENIC85]
+@24   = ~Eu admito que seu truque patético de pular de planos pode impressionar... um novato na Arte. No entanto, criança de Bhaal, você tem alguma ideia de onde nos trouxe desta vez?~
+@25   = ~Não faço ideia, Irenicus, embora eu suponha que esteja em algum lugar próximo a Saradush.~
+@26   = ~Eu desafio você a repetir esse pequeno 'truque' você mesmo, Irenicus! E, aliás, sim, eu acredito que ainda estamos perto o suficiente das muralhas da cidade de Saradush.~
+@27   = ~Algo perto não será suficiente, filho de Bhaal. Vamos tentar algo mais inteligente para variar.~
+@28   = ~Ah. Estamos realmente ainda em Tethyr... e Saradush fica a meia jornada de caminhada do lugar onde estamos. Agora me diga, <CHARNAME>, você ainda pretende prosseguir com o plano insano de Melissan? Irá atrás do segredo do gigante de fogo em uma busca sem sentido?~
+@29   = ~O que mais posso fazer no momento?~
+@30   = ~<CHARNAME>, Eu acho que você precisa de uma base para suas operações em Tethyr. Mesmo que você esteja correto e seu destino esteja ligado ao cerco de Saradush. Você sabe muito bem que a maldita cidade não duraria, e o que, eu te pergunto, você vai fazer depois da queda dela?~
+@31   = ~Eu farei tudo o que puder para salvar Saradush! Seu discurso derrotista não terá efeito sobre mim!~
+@32   = ~Não tenho certeza, Irenicus. O que você propõe?~
+@33   = ~Primeiro, é claro, você precisaria se inscrever para a boba missão deles, purgando o Castelo de algum 'mal' desconhecido que supostamente se esconde dentro. Ainda assim, confio que aventuras desse tipo são um tanto especialidade sua. Você logo despejaria o ocupante atual e teria o Forte pronto para suas necessidades.~
+@34   = ~Eu acho que você esqueceu de mencionar um fato 'pouco importante', Irenicus. Ou seja, que a Torre do vigia é uma prisão para um horror desconhecido, selado lá por ninguém menos que Helm. Eu conheço muito bem o lugar... mas mesmo eu fui incapaz de concluir a tarefa de purificá-lo das marcas que assombra suas paredes.~
+@35   = ~Acho que você esqueceu de mencionar um fato "pouco" importante, Irenicus. A saber, que a Torre do Vigia serve como uma prisão para ninguém menos que Demogorgon, o Príncipe dos Demônios em pessoa!~
+@36   = ~Acredito que você tenha esquecido de mencionar um fato 'pouco importante', Irenicus. A saber, que a Torre do Vigia serviu como prisão para ninguém menos que Demogorgon, o Príncipe dos Demônios! Isso, até que eu o derrotei, enviando-o de volta para o Abismo.~
+@37   = ~Parece intrigante o suficiente. Talvez eu deva considerar essa possibilidade no momento devido.~
+@38   = ~Já estive lá uma vez... nunca tive coragem de entrar, por algum motivo.~
+@39   = ~Realmente?! Você é uma praga muito impressionante, criança de Bhaal, e sou forçado a admitir mais uma derrota. Eu estava apenas te provocando, prole de Bhaal, com a esperança de que você não tivesse ouvido falar sobre a Fortaleza. Mas você deveria me contar mais sobre sua experiência com o Príncipe Demônio, pois estou curioso para ouvir os detalhes. Francamente, estou aliviado que era 'apenas' Demogorgon que eles estavam prendendo lá.~
+@40   = ~Sua maldade não tem limites, Irenicus, mas estou feliz por ter conseguido lhe ensinar uma lição mais uma vez. Tenho certeza de que sua 'provocação' foi destinada a me atrair para a armadilha!~
+@41   = ~De alguma forma, eu não acreditava na parte 'da piada'. Você estava me armando, Irenicus, e estou contente por ter conseguido interromper seu plano maligno.~
+@42   = ~Acredite no que quiser, afilhado, não tentarei convencê-lo da minha 'virtude'. Se foi capaz de derrotar o próprio Demogorgon, nada impede que tome o trono de seu pai com ou sem minha ajuda. Você *é* uma força a ser reconhecida, mas nem mesmo você pode me fazer mudar minha natureza e me impedir de tentar quebrar o seu vínculo. E este fato, talvez, seja minha última consolação em meu infortúnio.~
+@43   = ~Fico satisfeito que ainda haja um desafio neste Plano digno de sua consideração, filho de Bhaal. Sugiro que você faça uma visita à Torre do vigia antes que seja tarde demais.~
+@44   = ~E já que estamos no assunto, tenho certeza de que qualquer coisa que se esconda lá dentro não seria páreo para a nossa força combinada. Uma vez que você tenha se instalado na Torre, entretanto, você deveria começar a pensar em rastrear e eliminar o seu rival, Bhaalspawn, antes que eles façam o mesmo com você.~
+@45   = ~Eu acredito que finalmente chegamos na Torre do vigia. Então, o que você me diz, <CHARNAME>?~
+@46   = ~Um edifício impressionante, de fato! Mas, Irenicus, você tem que admitir - o lugar está quase em ruínas.~
+@47   = ~Hmm, não consigo dizer que a Torre cause muita impressão do lado de fora. Na verdade, parece o dente cariado de um demônio!~
+@48   = ~Definitivamente não é a Fortaleza da vela. Você enlouqueceu, Irenicus? O que há de tão especial em uma torre desgastada construída em um penhasco, pairando sobre a água?~
+@49   = ~L.t.M. é um conjunto curioso de iniciais. <CHARNAME>, você se importaria se eu desse uma olhada mais de perto nesse... exercício em geometria cromática?~ [DPJON157]
+@50   = ~Que desculpa desajeitada para uma 'solução' para este enigma! Agora o deva está morto e seu segredo morreu junto com ele. Você estragou tudo, afilhado, estragou tudo, de fato. Espero sinceramente que você não faça o mesmo com meu plano para uma alma de Bhaalspawn!~
+@51   = ~Missão Fracassada
+
+Enquanto atravessava a Torre do Vigia, encontrei um Deva ferido chamado Ybdiel, que pediu para que o ajudasse. Decidi, em vez disso, matar o irritante celestial, e Irenicus me acusou de estragar a missão. Bem, não se pode agradar a todos...~
+@52   = ~Que desculpa desajeitada para uma 'solução' para este enigma! Agora o deva está morto e seu segredo morreu junto com ele. Você estragou tudo, afilhado, estragou tudo, de fato. Espero sinceramente que você não faça o mesmo com meu plano para uma alma de Bhaalspawn!~
+@53   = ~Missão Fracassada
+
+Eu não pude perder tempo para ajudar a Deva Ybdiel. A Deva morreu e Irenicus me acusou de falhar na missão. Bem, não se pode agradar a todos...~
+@54   = ~Missão Fracassada
+
+Não consegui encontrar os Itens do Acordo a tempo de salvar o Deva Ybdiel. Irenicus me acusou de falhar na missão. Bem, você não pode agradar a todos...~
+@55   = ~Que desculpa desajeitada para uma 'solução' para este enigma! Agora o demônio está morto, e a Centelha está inacessível para nós. Você estragou tudo, afilhado, estragou tudo mesmo. Sinceramente espero que não faça o mesmo com o meu plano para uma alma de Bhaalspawn!~
+@56   = ~Missão Fracassada
+
+Eu decidi matar o Bebilith Abaia, que havia engolido a Centelha Deva. Estranhamente, depois que me livrei do demônio, o Deva também desapareceu, e Irenicus me acusou de ter falhado na missão. Bem, não se pode agradar a todos...~
+@57   = ~Missão Fracassada
+
+Eu não consegui proteger o Bebilith Abaia, que havia engolido a Centelha do Deva, e depois que ele morreu, o Deva também desapareceu. Irenicus me acusou de ter falhado na missão. Bem, você não pode agradar a todos...~
+@58   = ~Que desculpa desajeitada para essa 'solução' desse enigma! Agora tanto o deva quanto o demônio estão mortos, e a Centelha está inacessível para nós. Você estragou tudo, meu pupilo, estragou tudo mesmo. Sinceramente espero que você não faça o mesmo com minha tentativa de adquirir uma alma Bhaalspawn!~
+@59   = ~bem, <CHARNAME>,  o que você decidiu? Vai ouvir o apelo do seu 'protetor' auto-designado e entrar direto nessa nova armadilha, ou preferiria buscar rotas alternativas?~ [DPJON103]
+@60   = ~E quais outras opções eu tenho?~
+@61   = ~Desencana, Irenicus. A última pessoa da qual pediria conselho seria você!~
+@62   = ~Qualquer que seja a sua decisão, eu seguirei suas ordens, afilhado.~
+@63   = ~Qualquer decisão que você tomar, eu seguirei suas ordens, afilhado. Mas lembre-se de que você ainda tem uma alternativa. Aliás, eu acredito que até a Fortaleza da Sentinela, com seu monstro hipotético, talvez seja um lugar mais seguro do que este 'Amkethran'.~
+@64   = ~Você não assusta ninguém, seu grandalhão! Mesmo assim, tenho que ter cuidado com esse... Eu mesmo como meu rabo se a voz dele não soa familiar.~
+@65   = ~Opa! Foi aquele assustador.~ [BOTSM01]
+@66   = ~Isso foi uma coisa muito cruel de se dizer a um velho mago em sofrimento, estranho. Mas o que você diz, <CHARNAME>, me ajudará ou não?~
+@67   = ~Meu senhor, o que seu companheiro disse foi brutal e desnecessário. Mas eu garanto que as pessoas nunca esquecerão sua bondade!~
+@68   = ~Você pode seguir as instruções de Melissan até os portões de sua própria ruína, <CHARNAME>, ou pode tentar algo que eles menos esperariam de você.~
+@69   = ~Não muito distante a oeste deste local, encontra-se uma fortaleza, cujas qualidades defensivas, acredito, excedem as do infame Castelo Spulzeer e da sua antiga morada, a fortaleza-biblioteca da Fortaleza da vela.~
+@70   = ~O local se chama Torre do Vigia e é guardado por uma seita de lunáticos semi-desvairados que se autointitulam 'cavaleiros da Vigília'. Viajei até lá uma vez, há muito tempo, em uma missão que não é de sua preocupação. Você pode facilmente superar as defesas deles, se quiser, e tomar a Fortaleza para si.~
+@71   = ~A primeira impressão pode ser enganosa, afilhado, e se olhar mais de perto, notará que as paredes estão protegidas por símbolos mágicos que são intransponíveis por meios físicos. Esta fortaleza é uma armadilha, habilmente projetada para manter os prisioneiros dentro e os visitantes indesejados fora.~
+@72   = ~Curiosamente, os membros da infeliz seita Helmite estão esperando nos portões. <CHARNAME>, você terá que agir com sabedoria para ganhar acesso ao interior.~
