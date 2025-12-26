@@ -1,0 +1,58 @@
+@0    = ~Hey, Cutter! O que você acha? Ele diz que tudo muda, enquanto eu afirmo que você não pode alterar a natureza básica de alguém!~
+@1    = ~Com o que você está divagando, criatura? Não consigo ver mais ninguém aqui além de sua miserável pessoa!~
+@2    = ~Claro. Tudo pode mudar - até você. Agora, acalme-se e vamos falar de negócios. Por acaso, você é o Bebilith que engoliu a Centelha do Deva?~
+@3    = ~Não. Acho que não. Um demônio sempre será um demônio, não importa o quê. Agora, você vai entregar a Centelha voluntariamente, ou devo abrir você e vasculhar suas entranhas para encontrá-la?~
+@4    = ~Veja só, eu te disse, você não existe! Agora, saia da minha cabeça, seu chorão. Vá chiar em outro lugar!~
+@5    = ~ (canta)
+Mary tinha um pequeno cordeiro,
+Pequeno cordeiro, pequeno cordeiro,
+Mary tinha um pequeno cordeiro,
+Sua lã era branca como a neve
+~ [MARY]
+@6    = ~E toda vez que ela desviava o olhar
+Desviava o olhar, desviava o olhar
+Toda vez que ela desviava o olhar
+O cordeiro certamente crescia
+~ [MARY]
+@7    = ~(canta)
+Por que o cordeiro ama tanto Mary?
+Ama tanto Mary? Ama tanto Mary?
+Por que o cordeiro ama tanto Mary?
+As crianças curiosas gritam.
+~ [MARY]
+@8    = ~Pois Mary lhe dá corações de crianças,
+Olhos bonitinhos e lanches assim.
+Pois Mary o rega com sangue,
+O professor respondeu.~ [MARY]
+@9    = ~Bebilith Louco
+
+Eu encontrei o louco Bebilith Abaia, que acidentalmente engoliu a Centelha Deva. O demônio está bastante insano e não consigo compreender suas divagações.~
+@10   = ~Eu digo que isso vai contra a ordem natural das coisas. Segundo o seu ponto, um Balor poderia decidir abandonar sua maldade e se tornar um representante no Monte Celestia. Em seguida, você vai reivindicar que *eu* também posso mudar. E eu sou um Bebilith - veja estas garras e mandíbulas? Um Bebilith, eu digo!~
+@11   = ~(Choro) Pelo menos eu *era* um Bebilith... Ai, dói, dói, dói... DÓI MUITO!!! Por que dói?~
+@12   = ~Pare com suas divagações insanas, demônio, e responda minhas perguntas. Seu nome é Abaia? Você vai cooperar, ou devo forçá-lo a ceder a Centelha?~
+@13   = ~Danem-se! O demônio está completamente louco. Responda-me, criatura, ou enfrente a fúria do Verdadeiro Herdeiro de Bhaal! O que você fez com a Centelha Deva?~
+@14   = ~Hmm, talvez esteja doendo porque agora você tem consciência? Talvez eu possa ajudá-lo, se você vier comigo.~
+@15   = ~Abandone essa sua pretensão boba, demônio. Nada pode mudar a ordem natural das coisas. O bem sempre permanece bom e o mal permanece sendo mal. Agora, preciso saber o que você fez com a Centelha Deva.~
+@16   = ~Por que Abaia deveria vir com você, Cutter? Você não é ele, não ele, não ele! O Deva está morto. Eu o matei com a minha covardia!~
+@17   = ~Você está falando de Ybdiel, criatura? Ele está comigo. Agora, pare de tagarelar e me ajude a ajudar vocês dois. Espero que isso ajude na sua tradução do jogo. Se precisar de mais alguma coisa, fique à vontade para me pedir.~
+@18   = ~Aqui você pode ficar à vontade, mas não me culpe se continuar doendo.~
+@19   = ~Chega de comédia! Acho que você só entende a língua do aço.~
+@20   = ~O Deva está com você? Deixe, deixe, deixe-me vê-lo! Sim, eu posso sentir o cheiro do sangue dele. Ele está vivo. ~
+@21   = ~Deixa eu carregá-lo. Abaia vai cuidar do Deva, Abaia vai seguir, Abaia fará qualquer coisa que você mandar, Cutter. Apenas tire isso de mim e faça parar de doer!~
+@22   = ~Aliado Estranho
+
+Irenicus me pressionou para falar com o demônio e agora o Bebilith viaja conosco... ajudando a cuidar do Deva, nada menos! Com toda a insanidade que me cerca todos os dias, tenho que me perguntar - para onde será que este mundo está indo? Bah! Tenho que parar de escrever e voltar a explicar o que é 'bondade' e por que ela 'magoa' para o demônio, que está se lamentando em autorreprovação. Por que os Deuses não poderiam ter escolhido outra pessoa para esta tarefa inútil?~
+@23   = ~Me puna pela minha culpa!~ [CHILM04]
+@24   = ~Ele está morto, ele está morto, ele está morto! Cutter, você está muito atrasado. Abaia seguirá agora. Abaia seguirá a Deva de volta para os Planos!~
+@25   = ~Uma missão fracassada
+
+Não consegui encontrar todos os Itens do Pacto a tempo de salvar o Deva Ybdiel. Depois da morte do Deva, o Bebilith também desapareceu, e Irenicus me acusou de ter estragado a missão. Bem, não se pode agradar a todos...~
+@26   = ~Esse demônio fala como um dos Homens do Caos. Estou curioso para saber... não, não pode ser. Ainda assim, <CHARNAME>, cuidado com o que você fala pra ele.~
+@27   = ~Pare de cantar, Cutter, isso dói!~
+@28   = ~<CHARNAME>, Este deve ser o espécime que estamos procurando. Suas próprias entranhas brilham com luz celestial. Nenhum demônio normal se pareceria com isso... você pode confiar na minha expertise no assunto. Aconselho que adote uma abordagem gradual. Pareça amigável e envolva a criatura em conversa.~
+@29   = ~Agora, isso foi estranho. Eu me pergunto se eu não deveria... Não, não, com certeza *eu* serei capaz de lidar com um assunto tão pequeno como este!~
+@30   = ~Ai, isso dói!~
+@31   = ~(se encolhe) Agora, isso foi estranho. Eu me pergunto se você não deveria... Não, não, certamente um verdadeiro Bhaalspawn será capaz de lidar com um assunto tão pequeno quanto este!~
+@32   = ~Um espetáculo divertido, de fato, mas foi um manejo bastante pobre de uma situação delicada, semideus. O quê? Não me olhe como se eu lhe devesse uma alma, tente de novo.~
+@33   = ~Excelente. <CHARNAME>, até agora você tem se saído muito bem mesmo. Agora você precisa descobrir como extrair a Centelha do demônio. Posso oferecer algumas técnicas interessantes assim que você estiver pronto para prosseguir.~
+@34   = ~Que desculpa desastrada para uma 'solução' para este enigma! Agora o demônio está morto, e a Centelha está inacessível para nós. Você estragou tudo, Afilhado, realmente estragou. Espero sinceramente que você não faça o mesmo com minha tentativa de obter uma alma de seus irmãos!~
